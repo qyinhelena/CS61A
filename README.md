@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Slides
+[Week 2: Recursion](https://docs.google.com/presentation/d/1B-hvO5HPiw34S5ufT046XXkt5ODg9QGnyihGzeWZfIU/edit?usp=sharing)
+[Week 2: Lists](https://docs.google.com/presentation/d/16dsgeonRhT5mk7PjcS6bn4SU4ITx6fkSd44sUfzZiCY/edit?usp=sharing)
+[Week 1: Functions](https://docs.google.com/presentation/d/11D0jETTiBHXR0SfcfOwJ6XKrEIufVom4D8DNm7Zxsfs/edit?usp=sharing)
+[Week 1: Lab Introduction](https://docs.google.com/presentation/d/1_WwyzMDFRmJ_v1YiBPMcz1USUS6MeTBI6JowVyLZYEw/edit?usp=sharing)
 
-You can use the [editor on GitHub](https://github.com/ekwkk/CS61A/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Checkpoints
+Week 2 _coming soon!_
+[Week 1](https://goo.gl/forms/V7bhaXlGJ5ZvvM2q1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Additional Resources
+### Check the [Resources](https://cs61a.org/resources.html) tab
+### Environment Diagram
+[Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
-### Markdown
+### Recursion
+[Aaron's Recursion Guide](https://aaron_chen.gitbooks.io/divide-and-conquer/content/Heading1.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekwkk/CS61A/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
