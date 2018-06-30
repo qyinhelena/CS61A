@@ -10,7 +10,7 @@ Week 2 _coming soon!_
 [Week 1](https://goo.gl/forms/V7bhaXlGJ5ZvvM2q1)  
 
 ## Additional Resources
-Check the [Resources](https://cs61a.org/resources.html) tab  
+Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones 
 ### Environment Diagram
 [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
