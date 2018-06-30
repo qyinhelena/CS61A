@@ -10,8 +10,10 @@ Week 2 _coming soon!_
 [Week 1](https://goo.gl/forms/V7bhaXlGJ5ZvvM2q1)  
 
 ## Additional Resources
-Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones 
+Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones
+
 ### Environment Diagram
+[Chae's Environment Diagram Rules](https://docs.google.com/presentation/d/15Ow4zLLNgvrmbh8A1JA350KV2JjfKTZBjq6-oFIJ-mM/edit?usp=sharing)  
 [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
 ### Recursion
