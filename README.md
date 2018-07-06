@@ -1,5 +1,7 @@
 ## CS61A 
 ## Slides
+[Week 3: Growth](https://docs.google.com/presentation/d/1ymCh1x-ckut34vL1acidqOC59xj7f7_O8hj59oFVBsc/edit?usp=sharing)  
+[Week 3: Trees](https://docs.google.com/presentation/d/1iVJeJZbzb36JQ9SWYFrsgrs2KpO0YQ2ghzDG-JD4HZ8/edit?usp=sharing)  
 [Week 3: Mutation](https://docs.google.com/presentation/d/1XIPiXlLUIyb4vejDumk9A_LRYVkRzqY-wqGEYRmqtxI/edit?usp=sharing)  
 [Week 2: Recursion](https://docs.google.com/presentation/d/1B-hvO5HPiw34S5ufT046XXkt5ODg9QGnyihGzeWZfIU/edit?usp=sharing)  
 [Week 2: Lists](https://docs.google.com/presentation/d/16dsgeonRhT5mk7PjcS6bn4SU4ITx6fkSd44sUfzZiCY/edit?usp=sharing)  
