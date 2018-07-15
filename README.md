@@ -19,3 +19,7 @@ Check the [Resources](https://cs61a.org/resources.html) tab for more, here are s
 ### Recursion
 [Aaron's Recursion Guide](https://aaron_chen.gitbooks.io/divide-and-conquer/content/Heading1.html)
 
+### Scheme
+[Sequoia's Textbook](https://sequoia-tree.github.io/textbook/Scheme.pdf)  
+[Scheme Cheatsheet](https://cs61a.org/articles/scheme-builtins.html)  
+[Scheme Cheatsheet Part 2](https://cs61a.org/articles/scheme-spec.html)  
