@@ -1,5 +1,6 @@
 ## CS61A 
 ## Slides
+[Week 6: Streams and Tail Calls](https://docs.google.com/presentation/d/19hbs1PMcNvZIIgYiwE0L8ZGNNlwWPslsE0WQbleB8tc/edit?usp=sharing)  
 [Week 5: Mutable Functions](https://docs.google.com/presentation/d/1363g5JJ3oSn__z6skyoN4x5Ggj-PKZGybikBHRzBTSg/edit?usp=sharing)  
 [Week 5: OOP](https://docs.google.com/presentation/d/1Sy5DevZ6XAl2y4_b3hdLcaJbSFs9VJeUqp-XFBu6jM0/edit?usp=sharing)  
 [Week 4: Scheme](https://docs.google.com/presentation/d/1IHNSznLHDy8aZIbMN3LxhS5Zp28_lcvLcAX8A8rjIgs/edit?usp=sharing)  
