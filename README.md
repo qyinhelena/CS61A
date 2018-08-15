@@ -1,4 +1,4 @@
-## CS61A 
+## CS61A Fall 2018
 ## Slides
 _Coming soon!_ 
 
