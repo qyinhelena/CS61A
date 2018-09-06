@@ -6,4 +6,6 @@ Week 1 doesn't have slides
 
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
-_Coming soon!_ 
+### Environment Diagrams
+When doing environment diagrams, I like to consult pythontutor. It's useful in that I can step through the steps and see what variables are binded to.
+[Python Tutor](http://pythontutor.com/visualize.html#mode=edit)  
