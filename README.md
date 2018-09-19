@@ -4,7 +4,6 @@
 Week 1 doesn't have slides  
 [Week 2: Recursion Demo](https://docs.google.com/presentation/d/149GyxSvlymWhEhgcsfPsxGh9BFuwx_dmqPfu7PHZHvw/edit?usp=sharing)  
 [Week 3: Tree Recursion](https://docs.google.com/presentation/d/1-AngmTNIHihXn7LoecToU3JYuRr6WqmXrQJBd31TRMY/edit?usp=sharing)
-
 [Week 4: Trees and Sequences](https://docs.google.com/presentation/d/1UO0wV3gBxP9JO8eUvp-6Qj1HXH4Dzkw5l5LD8fH5jek/edit?usp=sharing)    
 
 ## Additional Resources
