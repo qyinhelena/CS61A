@@ -10,6 +10,8 @@ Week 1 doesn't have slides
 
 [Week 4: Trees and Sequences](https://docs.google.com/presentation/d/1UO0wV3gBxP9JO8eUvp-6Qj1HXH4Dzkw5l5LD8fH5jek/edit?usp=sharing)    
 
+[Week 5: Mutation and Iterators](https://docs.google.com/presentation/d/1b3CdW96NxF7qxC7hHPoWmFICKFhqUvy6arA-HRiCZ-I/edit?usp=sharing)
+
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
 ### Environment Diagrams
