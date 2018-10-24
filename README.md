@@ -12,6 +12,11 @@ Week 1 doesn't have slides
 
 [Week 5: Mutation and Iterators](https://docs.google.com/presentation/d/1b3CdW96NxF7qxC7hHPoWmFICKFhqUvy6arA-HRiCZ-I/edit?usp=sharing)
 
+Week 6 and 7 don't have slides
+
+[Week 8: Scheme](https://docs.google.com/presentation/d/151_1XWbsgFnZYgepJXbkqGwueDYoD6vGaRzCjrD-fEU/edit?usp=sharing)
+
+
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
 ### Environment Diagrams
