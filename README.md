@@ -1,6 +1,7 @@
 ## CS61A Fall 2019
 ## Slides
-[Discussion 0: Welcome to 61A](https://docs.google.com/presentation/d/1axHt3pNJ8QCzL8kg69Evjvgxf9AF5CTYTLCKAmjWdH8/edit?usp=sharing)   
+[Discussion 0: Welcome to 61A](https://docs.google.com/presentation/d/1axHt3pNJ8QCzL8kg69Evjvgxf9AF5CTYTLCKAmjWdH8/edit?usp=sharing)
+[Discussion 1: Control and Environments](https://docs.google.com/presentation/d/1JUl1pzORRTRfntylnPZg3C3XQ6DZO761NkHptzOvHco/edit?usp=sharing)
 
 
 ## Additional Resources
