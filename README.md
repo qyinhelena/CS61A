@@ -4,6 +4,8 @@
 
 [Discussion 1: Control and Environments](https://docs.google.com/presentation/d/1JUl1pzORRTRfntylnPZg3C3XQ6DZO761NkHptzOvHco/edit?usp=sharing)
 
+[Discussion 2: Higher Order Functions](https://docs.google.com/presentation/d/1KvzLaDHW57VXmNr6ZrlxrgyjFTadD7gcBmb5AlcgmSw/edit?usp=sharing)
+
 
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
